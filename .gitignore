@@ -1,0 +1,10 @@
+# bot
+/node_modules
+.env
+
+# server
+/bot_app/dist
+/bot_app/node_modules
+
+# client
+/client/node_modules
